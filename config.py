@@ -1,0 +1,1 @@
+locations = ['france','paris','spain','portugal','warsaw']
